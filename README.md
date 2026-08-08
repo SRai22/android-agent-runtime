@@ -22,22 +22,9 @@ The complete design and security invariants are in [SPEC.md](SPEC.md). The sourc
 ## Documents
 
 - [Architecture specification](SPEC.md)
-- [Position paper](paper/position-paper.md)
 - [Prior-art survey](docs/prior-art.md)
-- [IEEE PAR discussion draft](docs/ieee-par-draft.md)
 - [Contribution guide](CONTRIBUTING.md)
-- [LinkedIn article draft](outreach/linkedin-article.md)
 
 ## Contributing
 
 Use the [capability proposal issue template](.github/ISSUE_TEMPLATE/capability-proposal.md) to propose a Skill and/or MCP-tool capability mapping for an app. Challenges to the taxonomy and extensions to the trust model are also welcome; see [CONTRIBUTING.md](CONTRIBUTING.md) for the evidence and threat-model information expected in a proposal.
-
-## Project Status
-
-| Deliverable | File | Status | Next Action |
-|---|---|---|---|
-| Architecture Spec | docs/ANDROID-AGENT-HARNESS.md | Draft | Review + date-stamp |
-| arXiv Paper | paper/position-paper.md | Draft | Submit to arXiv cs.HC |
-| IEEE PAR | docs/ieee-par-draft.md | Draft | Submit to IEEE SA |
-| GitHub Repo | README.md | Ready | Push to github.com/[handle]/android-agent-runtime |
-| LinkedIn Article | outreach/linkedin-article.md | Draft | Publish after repo is live |
